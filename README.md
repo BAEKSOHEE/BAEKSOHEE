@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요. 웹퍼블리셔 백소희입니다. 👋
 
 <!--
 **BAEKSOHEE/BAEKSOHEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
